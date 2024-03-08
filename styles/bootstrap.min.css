@@ -1,0 +1,38 @@
+/* Navbar */
+.navbar {
+    background-color: #343a40; /* dark background color */
+  }
+  
+  .navbar-brand {
+    color: #ffffff; /* white text color */
+  }
+  
+  .navbar-nav .nav-link {
+    color: #ffffff; /* white text color */
+  }
+  
+  /* Active link */
+  .navbar-nav .nav-link.active {
+    color: #ffffff; /* white text color */
+  }
+  
+  /* Dropdown menu */
+  .dropdown-menu {
+    background-color: #343a40; /* dark background color */
+    border: none; /* remove border */
+  }
+  
+  .dropdown-item {
+    color: #ffffff; /* white text color */
+  }
+  
+  /* Form */
+  .form-control {
+    width: 300px; /* example width */
+  }
+  
+  .btn-secondary {
+    background-color: #6c757d; /* gray background color */
+    color: #ffffff; /* white text color */
+  }
+  
